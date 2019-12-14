@@ -1,5 +1,5 @@
 html {
-  box-sizing:border-box;
+  box-sizing: border-box;
   color: #2f2d13;
   line-height: 1.5;
 }
@@ -19,16 +19,14 @@ h1, h2 {
 
 header {
   text-align: center;
-  padding: 0 0 0.4em;
+  padding: .4em;
   background-color: #ffe500;
 }
 
 h1 {
-  margin: 0 0 0.2em;
+  margin: .2em;
   font-size: 3rem;
 }
-
-/** NAVIGATION **/
 
 .nav {
   font-size: 1.125rem;
@@ -46,12 +44,12 @@ nav a {
   background-color: #b2a212;
   border-radius: 4px;
   display: inline-block;
-  padding: 0.2em 0.5em 0.3em;
+  padding: .2em .5em .3em;
 }
 
 nav li {
   display: inline-block;
-  margin-bottom: 0.3rem;
+  margin-bottom: .3rem;
 }
 
 h2 {
@@ -67,7 +65,7 @@ footer {
 }
 
 footer small {
-  font-size: 0.75rem;
+  font-size: .75rem;
 }
 
 /** HIGHLIGHT CURRENT LINK **/
